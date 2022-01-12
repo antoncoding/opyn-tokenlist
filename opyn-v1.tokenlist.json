@@ -1,121 +1,16 @@
 {
-  "name": "Opyn v1",
-  "logoURI": "https://i.imgur.com/HU1u66R.jpg",
-  "keywords": ["defi", "option", "opyn", "insurance"],
-  "timestamp": "2020-09-09T23:10:00Z",
+  "name": "Opyn",
+  "logoURI": "https://www.opyn.co/_next/image?url=%2Fpb_opyn_logo_with_athena2.png&w=128&q=75",
+  "keywords": ["defi", "option", "opyn", "squeeth"],
+  "timestamp": "2022-01-11T23:10:00Z",
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc6b11850241c5127eab73af4b6c68bc267cbbff4",
-      "name": "oWETHp Put 360 DEC2520",
-      "symbol": "oWETH-360P-12/25/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "oYFIp Put 25000 OCT0220",
-      "address": "0x452b421be5b30f0c6ad8c3f03c06bdaab4f5c56c",
-      "symbol": "oYFI-25000P-10/02/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "oWETHp Put 360 OCT3020",
-      "address": "0x0578779e746d7186253a36cf651ea786acfcf087",
-      "symbol": "oWETH-360P-10/30/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "ETHc Call 500 OCT3020",
-      "address": "0xf9aba2e43fb19184408ea3b572a0fd672946f87b",
-      "symbol": "oETH-500C-10/30/20",
-      "decimals": 6
-    },
-    {
-      "chainId": 1,
-      "name": "oBALp Put 22 OCT0220",
-      "address": "0xdb0991dfc7e828b5a2837dc82d68e16490562c8d",
-      "symbol": "oBAL-22P-10/02/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "oCOMPp Put 150 SEP2520",
-      "address": "0xe951ebe6b4420ab3f4844cf36dedd263d095b416",
-      "symbol": "oCOMP-150P-09/25/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "oCRVp Put 3 SEP252020",
-      "address": "0x9215bd49b59748419eac6bad9dbe247df06ebdb9",
-      "symbol": "oCRV-3P-09/25/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "oETHp Put 180 SEP2520",
-      "address": "0xE3A2c34Fa2F59ffa95C4ACd1E5663633d45Bc3AD",
-      "symbol": "oETH-180P-09/25/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "oETHc Call 400 SEP2520",
-      "address": "0x05977EBC26825C0CD6097E0Ad7204721516711Eb",
-      "symbol": "oETH-400C-09/25/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "oWETHp Put 380 SEP1820",
-      "address": "0x31f88266301b08631f9f0e33fd5c43c2a5d1e5b2",
-      "symbol": "oWETH-380P-09/18/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "oYFIp Put 8500 SEP1820",
-      "address": "0xd1cec2f67fdc4c60e0963515dfc3343f31e32e47",
-      "symbol": "oYFI-8500P-09/18/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "oWETHp Put 370 SEP1120",
-      "address": "0x15844029b2c2bf24506e9937739a9a912f1e4354",
-      "symbol": "oWETH-370P-09/11/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "oWETHp Put 400 SEP0420",
-      "address": "0x5562c33c383f6386be4f6dcdbd35a3a99bbcfde6",
-      "symbol": "oWETH-400P-09/04/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "oETHp Put 200 AUG2820",
-      "address": "0x3CBFC1397deF0602c2d211c70A1c0c38CEDB5448",
-      "symbol": "oWETH-400P-09/04/20",
-      "decimals": 7
-    },
-    {
-      "chainId": 1,
-      "name": "Opyn cDai Insurance",
-      "symbol": "ocDai",
-      "address": "0x98cc3bd6af1880fcfda17ac477b2f612980e5e33",
-      "decimals": 8
-    },
-    {
-      "chainId": 1,
-      "name": "Opyn cUSDC Insurance",
-      "symbol": "ocUSDC",
-      "address": "0x8ED9f862363fFdFD3a07546e618214b6D59F03d4",
-      "decimals": 8
+      "address": "0xf1b99e3e573a1a9c5e6b2ce818b617f0e664e86b",
+      "name": "Opyn Squeeth",
+      "symbol": "oSQTH",
+      "decimals": 18
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": { "major": 2, "minor": 0, "patch": 0 }
 }
