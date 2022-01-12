@@ -1,6 +1,6 @@
 {
   "name": "Opyn",
-  "logoURI": "https://www.opyn.co/_next/image?url=%2Fpb_opyn_logo_with_athena2.png&w=128&q=75",
+  "logoURI": "https://i.imgur.com/FcbPgFJ.png",
   "keywords": ["defi", "option", "opyn", "squeeth"],
   "timestamp": "2022-01-11T23:10:00Z",
   "tokens": [
@@ -12,5 +12,5 @@
       "decimals": 18
     }
   ],
-  "version": { "major": 2, "minor": 0, "patch": 0 }
+  "version": { "major": 1, "minor": 0, "patch": 0 }
 }
