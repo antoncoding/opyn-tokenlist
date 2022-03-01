@@ -1,0 +1,25 @@
+{
+  "name": "opyn-tokenlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/validate-token-list.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFrankfurt/opyn-tokenlist.git"
+  },
+  "keywords": [],
+  "author": "Jordan Frankfurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFrankfurt/opyn-tokenlist/issues"
+  },
+  "homepage": "https://github.com/JFrankfurt/opyn-tokenlist#readme",
+  "dependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.27",
+    "ajv": "^8.10.0",
+    "ajv-formats": "^2.1.1"
+  }
+}
